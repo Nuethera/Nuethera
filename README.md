@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning python programming
 - 📫 How to reach me 
         Email: vaishnavj2124@outlook.com
-        Instagram: @nuethy
+        LinkenIn: https://www.linkedin.com/in/nuethy/
 
 
